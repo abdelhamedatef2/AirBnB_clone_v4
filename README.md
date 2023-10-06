@@ -218,7 +218,7 @@ github repo
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * Kenneth Mensah, [@Kmens5](https://github.com/Ken-Mens)
-* Abdelhamed Atef, [@tassavarat](https://github.com/abdelhamedatef2)
+* Abdelhamed Atef, [@abdelhamedatef2](https://github.com/abdelhamedatef2)
 ## License
 
 MIT License
